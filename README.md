@@ -1,6 +1,6 @@
 # DP-HAFNet
 
-DO-HAFNet is a novel deep learning framework for high-quality ultrasound image reconstruction from single plane-wave radio frequency (RF) data. This network features a dual-output architecture that simultaneously predicts pixel-level adaptive weights and channel-weighted beamforming outputs, enabling superior image quality while maintaining computational efficiency.
+DP-HAFNet is a novel deep learning framework for high-quality ultrasound image reconstruction from single plane-wave radio frequency (RF) data. This network features a dual-output architecture that simultaneously predicts pixel-level adaptive weights and channel-weighted beamforming outputs, enabling superior image quality while maintaining computational efficiency.
 
 ## 📄 Corresponding Publication
 This repository contains the implementation of the method described in our paper:

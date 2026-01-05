@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/DLdata_EC.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_EP.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_SC.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_SP.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_breast_26.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_breast_28.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_breast_30.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_cross.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/DLdata_long.mat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logs/LADANet_20260105_091821/config.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/params/RF-LADANet.pth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

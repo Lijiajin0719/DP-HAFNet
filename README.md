@@ -74,5 +74,20 @@ For any questions regarding the paper or this implementation, please feel free t
 
 📩 **Email:** [15563866837@163.com](15563866837@163.com)
 
+## 📝 Citation
+If you use this code for your research, please cite our paper.
+```bash
+@article{LI2026121562,
+title = {DP-HAFNet: A dual-path hierarchical adaptive fusion network for ultrasound image reconstruction from single plane-wave RF data},
+journal = {Measurement},
+pages = {121562},
+year = {2026},
+issn = {0263-2241},
+doi = {https://doi.org/10.1016/j.measurement.2026.121562},
+url = {https://www.sciencedirect.com/science/article/pii/S0263224126012716},
+author = {Jiajin Li and Wenwen Sun and Yuanguo Wang and Chichao Zheng and Zhihui Han and Hu Peng and Chaoxue Zhang and Jinhua Zhou and Yadan Wang}
+}
+```
+
 ---
 *🌟 We appreciate your interest in our work!*

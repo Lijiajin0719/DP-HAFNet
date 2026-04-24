@@ -80,12 +80,14 @@ If you use this code for your research, please cite our paper.
 @article{LI2026121562,
 title = {DP-HAFNet: A dual-path hierarchical adaptive fusion network for ultrasound image reconstruction from single plane-wave RF data},
 journal = {Measurement},
+volume = {277}
 pages = {121562},
 year = {2026},
 issn = {0263-2241},
 doi = {https://doi.org/10.1016/j.measurement.2026.121562},
 url = {https://www.sciencedirect.com/science/article/pii/S0263224126012716},
-author = {Jiajin Li and Wenwen Sun and Yuanguo Wang and Chichao Zheng and Zhihui Han and Hu Peng and Chaoxue Zhang and Jinhua Zhou and Yadan Wang}
+author = {Jiajin Li and Wenwen Sun and Yuanguo Wang and Chichao Zheng and Zhihui Han and Hu Peng and Chaoxue Zhang and Jinhua Zhou and Yadan Wang},
+keywords = {Ultrasound image reconstruction, Plane-wave, Adaptive beamforming, Deep learning, Linear attention mechanism}
 }
 ```
 
